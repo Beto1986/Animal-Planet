@@ -1,7 +1,7 @@
 Sitio de práctica desarrollado con HTML5 y CSS3 para la Academia Guayerd. La actividad consta de desarrollar un sitio (no responsive) que contenga: 
 
 * Sobre la barra de navegación, un logo colocado a la izquierda y los enlaces en la derecha.
-* En el header colocar 4 secciones (Terrestres, Voladores, Anfibios, Acuáticos).
+* En el header colocar 4 secciones (Terrestres, Voladores, Anfibios, Acuáticos) que deben estar en la misma página al acceder a cada enlace.
 * El header debe ser fijo a medida que vamos desplazando la página.
 * Una imagen principal a elección.
 * Cada sección debe tener 6 imágenes con su correspondiente descripción.
